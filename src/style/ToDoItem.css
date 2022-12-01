@@ -1,0 +1,44 @@
+.todoItem {
+    border: 1px solid lightpink;
+    border-radius: 3px;
+    width: 500px;
+    height: 50px;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+.todoTitle {
+    margin-right: 10px;
+}
+
+.todoBody {
+    margin-right: 10px;
+}
+
+.doneButton {
+    width: 50px;
+    height: 30px;
+    margin-right: 10px;
+    border: 1px solid yellowgreen;
+    border-radius: 3px;
+    background-color: transparent;
+}
+
+.doneButton:hover {
+    background-color: palegreen;
+}
+
+.deleteButton {
+    width: 50px;
+    height: 30px;
+    border: 1px solid palevioletred;
+    border-radius: 3px;
+    background-color: transparent;
+}
+
+.deleteButton:hover {
+    background-color: palevioletred;
+}
