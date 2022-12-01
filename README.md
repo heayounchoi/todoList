@@ -1,5 +1,5 @@
 Vercel 배포 사이트:
-https://vercel.com/heayounchoi/todo-list
+todo-list-red-zeta.vercel.app
 
 components
 - App.js
